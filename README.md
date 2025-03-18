@@ -32,6 +32,7 @@ windows环境figma-developer-mcp服务配置;<br/>
     }
   }
 }
+<br/>
 9、下面是已经成功的配置<br/>
 {
   "mcpServers": {
